@@ -1,5 +1,6 @@
 package org.iesalandalus.programacion.robot.modelo;
 
+import org.iesalanalus.programacion.robot.modelo.Orientacion;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 

@@ -1,5 +1,7 @@
 package org.iesalandalus.programacion.robot.modelo;
 
+import org.iesalanalus.programacion.robot.modelo.Coordenada;
+import org.iesalanalus.programacion.robot.modelo.Zona;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
