@@ -1,3 +1,5 @@
+//ArjanRosero
+
 package org.iesalanalus.programacion.robot.modelo;
 
 import java.util.Objects;
